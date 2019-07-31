@@ -16,11 +16,11 @@
 title: airsoft MadMaxista
 email: airsoftmadmaxista@protonmail.com
 description: >
-  Bitácora políticamente incorrecta; <br>
-  La vía frugal y sana de esto de las bolicas y las batallitas de mentira. <br>
-  Feliz aquel que no rinde a la usura vasallaje.
-tagline: vitam impendere vero
-location: Huesca (Aragón) [España]
+  aaa <br>
+  bbb <br>
+  ccc
+tagline: ddd
+location: Huesca
 date: true
 baseurl: / # the subpath of your site, e.g. /blog
 url: "http://airsoftmadmaxista.github.io" # the base hostname & protocol for your site, e.g. http://example.com
